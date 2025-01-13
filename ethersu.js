@@ -21,7 +21,7 @@ const rl = readline.createInterface({
 // Function to display header in console
 function displayHeader() {
     console.log("===========================================");
-    console.log("         🚀 Drops Bot by BOTERDROP 🚀       ");
+    console.log("         🚀 Drops Bot by Binskuyy 🚀       ");
     console.log("===========================================");
 }
 
